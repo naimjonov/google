@@ -10,22 +10,43 @@ body{
     color: #333;
     background-color: white;
 }
-
-.img{
-    margin: 190px;
-    width: 400px;
-    height: 200px;
-
+.head {
+    width: 1508.8px;
+    height: 48px;
+    background-color: white;
+    
 }
 
-.bacround{
-    width: 900px;
-    height: 200px;
-    border-radius: 30px;
-}
+
 .kantent{
     border-radius: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
 }
-input1{
-    box-shadow: 30px;
+.search-input {
+    width: 584px;
+    height: 47.6px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    margin-top: px;
+    border-radius: 30px;
+    border: none;
+}
+.submit-input {
+    width: 132.6px;
+    height: 36px;
+    border: none;
+    background-color: #F8F9FA;
+    
+    
+    
+
+}
+.ikonka{
+    margin: 500p;
+}
+.footer{
+    margin-top: 200px;
 }
